@@ -10,6 +10,16 @@ This project demonstrates how to build a Home SOC (Security Operations Center) L
 
 The environment was created for learning SOC operations, endpoint monitoring, and SIEM fundamentals through hands-on practice.
 
+## ⭐ Project Highlights
+
+- 🛡️ Built a functional home SOC environment using Wazuh SIEM
+- 💻 Monitored a Windows 10 endpoint using the Wazuh Agent
+- 🔍 Performed real-time threat hunting and security event analysis
+- 🚨 Detected simulated failed login attempts
+- 🦠 Tested malware detection using the EICAR test file
+- 📊 Investigated security events through the Wazuh Dashboard
+- 🏗️ Designed the lab using VirtualBox-based virtual machines
+
 ---
 
 ## 🎯 Objectives
