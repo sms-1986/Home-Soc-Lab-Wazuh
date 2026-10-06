@@ -67,7 +67,7 @@ The Home SOC Lab consists of an Ubuntu Server running the Wazuh SIEM platform an
 
 The following architecture represents the complete Home SOC Lab environment, showing the Windows endpoint, Wazuh agent, Wazuh server, and dashboard along with the security-event detection flow.
 
-![Home SOC Lab Architecture](Architecture/a_clean_infographic_diagram_on_a_white_background.png)
+![Home SOC Lab Architecture](Architecture/Home%20SOC%20Lab%20Architecture%20Infographic.png)
 > ---
 
 ## 🔍 Detection Scenarios
