@@ -104,3 +104,23 @@ This project will continue to evolve with additional security capabilities, incl
 - File Integrity Monitoring (FIM).
 - Email alerting for critical security events.
 - Additional attack simulation scenarios.
+
+## Screenshots
+### Wazuh Overview Dashboard
+
+![Wazuh Overview Dashboard](Screenshots/wazuh-overview-dashboard.png)
+### Wazuh Active Windows Agent
+
+![Wazuh Active Windows Agent](Screenshots/wazuh-active-windows-agent.png)
+### Wazuh Endpoint Status Overview
+
+![Wazuh Endpoint Status Overview](Screenshots/wazuh-endpoint-status-overview.png)
+### Wazuh Threat Hunting Dashboard
+
+![Wazuh Threat Hunting Dashboard](Screenshots/wazuh-threat-hunting-dashboard.png)
+### Wazuh Threat Hunting Events
+
+![Wazuh Threat Hunting Events](Screenshots/wazuh-threat-hunting-events.png)
+### EICAR Malware Detection
+
+![EICAR Windows Defender Detection](Screenshots/eicar-windows-defender-detection.png)
